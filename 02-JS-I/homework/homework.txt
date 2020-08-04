@@ -1,0 +1,13 @@
+HOMEWORK INTRODUCCION A JAVASCRIPT
+
+1 VARIABLES: una variable es un lugar en donde vamos a guardar datos para poder utilizarlos mas adelante.
+
+2 STRING : son cadenas de datos o palabras que podemos usar escritas entre "".
+
+3 FUNCIONES:  es una linea de codigo que nos devuelve algo, depende la funcion que escribamos y los argumentos
+que le pasemos nos va a devolver una respuesta. si creamos una funcion que se llama suma y realiza una suma entre
+A Y B, nosotros le pasamos el valor a los argumentos (A, B) y nos va a devolver el resultado entre la suma de A + B.
+
+4 DECLARACIONES IF: son condicionales que nos sirven para ejecutar una linea de codigo si la condicion se cumple.
+
+5 VALORES BOOLEANOS: son dos valores true and false y nos sirven para darle un estado a una variable en particular.
